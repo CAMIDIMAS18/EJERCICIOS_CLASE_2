@@ -7,7 +7,7 @@ public class Ejercicio1 {
     public static void main(String args[])
     {
 
-        System.out.println("¡Hola Mundo!");      //Mostrar en pantalla
-
+        System.out.println("¡...Hola Mundo...!");                    //Mostrar en pantalla
+        System.out.println("Este es mi primer programa en Java");
     }
 }
